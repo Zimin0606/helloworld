@@ -1,2 +1,2 @@
 # helloworld
-sample repository
+read-me repository
